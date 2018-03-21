@@ -4,7 +4,7 @@ PepeGold integration/staging tree
 http://www.pepegold.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 PepeGold Developers
+Copyright (c) 2011-2018 PepeGold Developers
 
 What is PepeGold?
 ----------------
